@@ -1,1 +1,1 @@
-* # http://vivianesantos.github.io
+# vivianesantos.github.io
